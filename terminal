@@ -1,0 +1,3 @@
+npx create-react-app multiversx-wallet-demo
+cd multiversx-wallet-demo
+npm install @multiversx/sdk-dapp 
